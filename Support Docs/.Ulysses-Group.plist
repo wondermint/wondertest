@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<integer>1</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>526621279.15243399</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Support Doc #1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>526621310.11473602</real>
+				<key>version</key>
+				<dict>
+					<key>7bcb98d711e39cb918cfe165594f21747c99e4333ef4f7571587a4953d0d6a7f</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Support Doc #1.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>7bcb98d711e39cb918cfe165594f21747c99e4333ef4f7571587a4953d0d6a7f</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>7bcb98d711e39cb918cfe165594f21747c99e4333ef4f7571587a4953d0d6a7f</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
